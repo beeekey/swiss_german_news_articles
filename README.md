@@ -1,1 +1,1 @@
-# swiss_german_news_artivles
+# swiss_german_news_articles
